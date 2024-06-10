@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pritamportfolio/static/css/main.6b1439ff.css",
+    "main.js": "/pritamportfolio/static/js/main.9416d78d.js",
+    "static/js/453.64512fd7.chunk.js": "/pritamportfolio/static/js/453.64512fd7.chunk.js",
+    "index.html": "/pritamportfolio/index.html",
+    "main.6b1439ff.css.map": "/pritamportfolio/static/css/main.6b1439ff.css.map",
+    "main.9416d78d.js.map": "/pritamportfolio/static/js/main.9416d78d.js.map",
+    "453.64512fd7.chunk.js.map": "/pritamportfolio/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b1439ff.css",
+    "static/js/main.9416d78d.js"
+  ]
+}
