@@ -1,0 +1,48 @@
+[
+    {
+      
+        "title":"HTML",
+        "imageSrc":"assests/h1.png"
+        
+    },
+    {
+        
+        "title":"CSS",
+        "imageSrc":"assests/c1.png"
+    },
+    {
+        
+        "title":"JavaScript",
+        "imageSrc":"assests/java.jpg"
+    },
+    {
+      
+        "title":"React",
+        "imageSrc":"assests/logo192.png"
+    },
+    {
+        
+        "title":"Node",
+        "imageSrc":"assests/n1.jpg"
+    },
+    {
+        
+        "title":"PHP",
+        "imageSrc":"assests/R (1).png"
+    },
+    {
+      
+        "title":"MYSQL",
+        "imageSrc":"assests/m1.png"
+    },
+    {
+        
+        "title":"Codeigniter",
+        "imageSrc":"assests/OIP.jpg"
+    },
+    {
+        
+        "title":"Boostrap",
+        "imageSrc":"assests/b1.jpg"
+    }
+]

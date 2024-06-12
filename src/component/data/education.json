@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "title":"Don Bosco Public High School",
+        "endDate":" 2019",
+        "location":"Mumbai"
+    },
+    {
+        "id":2,
+        "title":"Rk Memmorial High School",
+        "endDate":" 2021",
+        "location":"Mumbai"
+    },
+    {
+        "id":3,
+        "title":"Mumbai University",
+        "course":"BscIt",
+        "endDate":" 2024",
+        "location":"Mumbai"
+    }
+]
